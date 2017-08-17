@@ -3,7 +3,7 @@ function get(selector) {
     var method=selector.substr(0,1)=='.'?'getElementsByClassName':'getElementById';
     return document[method](selector.substr(1));//这个方括号是什么姿势？obj[method]();
 }
-//翻面控制
+//翻面控制turn
 function turn(ele) {
     var cln=ele.className;
     var _index=ele.getAttribute('id').match(/\d+/g);
