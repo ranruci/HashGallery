@@ -1,6 +1,6 @@
-*{padding:0;margin: 0;}
+﻿*{padding:0;margin: 0;}
 body{
-    -moz-user-select: none;/*FireFox不能选中文字*/
+    -moz-user-select: none;/*FireFox不能选666中文字*/
     background-color: #ffffff;
     color: #555;
     font-family:'Avenir Next','Lantinghei SC';
@@ -23,7 +23,7 @@ body{
     overflow: hidden;
     background:url(img/background.jpg);
 }
-/*海报样式*/
+/*海报样式----*/
 .photo{
     width: 260px;
     height: 320px;
