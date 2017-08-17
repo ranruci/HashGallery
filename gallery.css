@@ -1,6 +1,6 @@
 ﻿*{padding:0;margin: 0;}
 body{
-    -moz-user-select: none;/*FireFox不能选666中文字*/
+    -moz-user-select: none;/*FireFox不能选655中文字*/
     background-color: #ffffff;
     color: #555;
     font-family:'Avenir Next','Lantinghei SC';
