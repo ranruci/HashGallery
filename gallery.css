@@ -7,12 +7,12 @@ body{
     font-size: 14px;
     -webkit-font-smoothing:antialiased;/*没觉得有啥变化 防止字体边缘锯齿11112211*/
 }
-/*@font-face{
+@font-face{
     font-family:'icons';
     src: url(img/icons.woff) format('woff');
     font-weight: normal;
     font-style: normal;
-}*/
+}
 .wrap{
     width: 100%;
     height: 700px;
