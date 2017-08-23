@@ -5,7 +5,7 @@ body{
     color: #555;
     font-family:'Avenir Next','Lantinghei SC';
     font-size: 14px;
-    -webkit-font-smoothing:antialiased;/*没觉得有啥变化 防止字体边缘锯齿1112211*/
+    -webkit-font-smoothing:antialiased;/*没觉得有啥变化 防止字体边缘锯齿11112211*/
 }
 @font-face{
     font-family:'icons';
