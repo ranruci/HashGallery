@@ -1,2 +1,2 @@
 # HashGallery
-原生js 海报
+原生js
