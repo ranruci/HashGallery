@@ -1,2 +1,2 @@
 # HashGallery
-原生js画廊
+原生js
